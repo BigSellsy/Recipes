@@ -1,3 +1,3 @@
 # Recipes from my Nonna
 
-- [guacamole](/.guacamole.md)
+- [guacamole](./guacamole.md)
